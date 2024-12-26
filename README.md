@@ -48,4 +48,5 @@ This can make a new file. Now you know how to use my ToDo list app!
 This might be a little confusing:
 
 ❌ - Not done
+
 ✅ - Done
