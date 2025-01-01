@@ -28,8 +28,7 @@ You should make a shell script to run it. Write this:
 #!/bin/your_sh
 
 /path/to/your/python3 /path/to/your/todo
-
-If you are using vim, type in :wq. If you are using nano, press Control+O and Control+X
+If you are using vim, type in :wq. If you are using nano, press Control+O and Control+X.
 
 chmod +x /usr/local/bin/todo
 
