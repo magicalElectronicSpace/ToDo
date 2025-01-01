@@ -19,7 +19,7 @@ git clone https://github.com/magicalElectronicSpace/todo.git
 
 ## Developer
 
-This program was made by Sebastian William Descy, who is new to GitHub at the end of 2024.
+This program was made by Magical Electronic Space, who is new to GitHub at the end of 2024.
 
 
 ## Running
@@ -29,7 +29,7 @@ You should make a shell script to run it. Write this:
 
 /path/to/your/python3 /path/to/your/todo
 
-"Press Control+X to save your work and exit nano, then type this:"
+If you are using vim, type in :wq. If you are using nano, press Control+O and Control+X
 
 chmod +x /usr/local/bin/todo
 
