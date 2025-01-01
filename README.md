@@ -27,7 +27,13 @@ You should make a shell script to run it. Write this:
 
 #!/bin/your_sh
 
-/path/to/your/python3 /path/to/your/todo
+/path/to/your/python3 /path/to/your/ToDo
+
+_________________________________________
+
+"Replace /bin/your_sh with the shell you use."
+"Replace /path/to/your/python3 with the path to your python3 (you can easily find out by typing in 'type python3')."
+"Replace /path/to/your/ToDo with the path to your ToDo app (usually located in ~/ToDo)."
 If you are using vim, type in :wq. If you are using nano, press Control+O and Control+X.
 
 chmod +x /usr/local/bin/todo
@@ -49,3 +55,10 @@ This might be a little confusing:
 ❌ - Not done
 
 ✅ - Done
+
+## How it works
+
+Each ToDo list is in a JSON (JavaScript Object Notation) file.
+
+The checks in the list command are really strings that say "Done" and "Not Done" in the JSON file.
+
