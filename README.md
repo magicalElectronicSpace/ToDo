@@ -32,7 +32,9 @@ You should make a shell script to run it. Write this:
 _________________________________________
 
 "Replace /bin/your_sh with the shell you use."
+
 "Replace /path/to/your/python3 with the path to your python3 (you can easily find out by typing in 'type python3')."
+
 "Replace /path/to/your/ToDo with the path to your ToDo app (usually located in ~/ToDo)."
 If you are using vim, type in :wq. If you are using nano, press Control+O and Control+X.
 
