@@ -68,3 +68,6 @@ Each ToDo list is in a JSON (JavaScript Object Notation) file.
 
 The checks in the list command are really strings that say "Done" and "Not Done" in the JSON file.
 
+### Libraries
+
+The libraries that are used are json and pathlib, and nothing else.
