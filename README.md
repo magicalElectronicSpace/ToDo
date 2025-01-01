@@ -12,7 +12,7 @@ Here is how to do it:
 
 
 
-git clone https://github.com/sebastian7721/todo.git
+git clone https://github.com/magicalElectronicSpace/todo.git
 
 
 
