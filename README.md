@@ -41,7 +41,7 @@ _________________________________________
 
 Saving your work:
 
-If you are using vim, type in :wq. If you are using nano, press Control+O and Control+X.
+If you are using vim, enter command mode and type in :wq. If you are using nano, press Control+O and Control+X.
 
 chmod +x /usr/local/bin/todo
 
