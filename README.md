@@ -71,3 +71,8 @@ The checks in the list command are really strings that say "Done" and "Not Done"
 ### Libraries
 
 The libraries that are used are json and pathlib, and nothing else.
+
+
+## Learn more about the developer
+
+Refer to the about me page about the developer and the website's server [here](https://skypi.club/about_the_developer.html).
