@@ -37,9 +37,9 @@ _________________________________________
 
 "Replace /path/to/your/ToDo with the path to your ToDo app (usually located in ~/ToDo)."
 
-                              Saving your work
+              
 
---------------------------------------------------------------------------------
+Saving your work:
 
 If you are using vim, type in :wq. If you are using nano, press Control+O and Control+X.
 
@@ -47,7 +47,7 @@ chmod +x /usr/local/bin/todo
 
 todo
 
-It should return a prompt:
+It should return a prompt
 
 Enter the name of the file you want to use: 
 
@@ -60,7 +60,6 @@ This can make a new file. Now you know how to use my ToDo list app!
 This might be a little confusing:
 
 ❌ - Not done
-
 ✅ - Done
 
 ## How it works
